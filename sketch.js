@@ -26,7 +26,7 @@ function draw() {
   textFont();
   text("Move your cursor on the figure\nto change colors", 40, 50);
   textAlign(RIGHT, BOTTOM);
-  text("Click to stop", 1500, 700 );
+  text("Click to stop", windowWidth-50, windowHeight-20);
  pop();
 
 
